@@ -1,3 +1,5 @@
+//Pinout Wemos D1 Mini: https://randomnerdtutorials.com/esp8266-pinout-reference-gpios/
+
 void setup() {
   pinMode(LED_BUILTIN, OUTPUT);
   Serial.begin(115200);
